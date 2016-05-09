@@ -1,0 +1,9 @@
+total 160
+-rwxrwxr-x   1 564      567         25955 Apr 17  2002 a.out
+-rw-r--r--   1 564      567         10189 Apr 16  2002 gameboard.cpp
+-rw-r--r--   1 564      567           628 Apr 16  2002 gameboard.h
+-rw-rw-r--   1 564      567          7536 Apr 17  2002 gameboard.o
+-rw-r--r--   1 564      567          9351 Apr 16  2002 globals.cpp
+-rw-r--r--   1 564      567           615 Apr 16  2002 globals.h
+-rw-rw-r--   1 564      567          7580 Apr 17  2002 globals.o
+-rw-r--r--   1 564      567           871 Apr 16  2002 main.cpp
